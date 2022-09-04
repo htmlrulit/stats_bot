@@ -1,0 +1,9 @@
+<?xml version="1.0" ?>
+<settings>
+	<account>
+		<token>main_token</token>
+	</account>
+	<api>
+		<version>5.131</version>
+	</api>
+</settings>
